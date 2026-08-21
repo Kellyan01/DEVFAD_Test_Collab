@@ -1,4 +1,4 @@
-# DEVFAD_Test_Collab
+# DEVFAD\_Test\_Collab
 
 Création README pour essai.
 bien le bonjours tout le monde
@@ -18,6 +18,14 @@ J'ai réussi à cloner !!! COOL
 Moi aussi !
 
 
+
 eSSAIE MODIFICATION EN COLLABORATION JEREMY
 J'ai réussi à cloner !!! COOL
 Moi aussi !
+
+
+
+\## La Modif faite par Yoann le Formateur
+
+\*\*Le code proposé par MWa!!!\*\*
+
